@@ -2,7 +2,7 @@
 make asciified videos
 
 
-<p><img='asciified-sample.gif'></p>
+<p><img src='asciified-sample.gif'></p>
 
 
 
