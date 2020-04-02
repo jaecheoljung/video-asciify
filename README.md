@@ -1,5 +1,7 @@
 # video-asciify
-make asciified videos
+
+
+- make asciified videos (Inspired by https://github.com/RameshAditya/asciify)
 
 
 <p><img src='asciified-sample.gif'></p>
